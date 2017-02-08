@@ -34,5 +34,7 @@
 	<string>1:18534809288:ios:a12ddedc0720cd31</string>
 	<key>DATABASE_URL</key>
 	<string>https://devslopes-social-4f16e.firebaseio.com</string>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<false/>
 </dict>
 </plist>
